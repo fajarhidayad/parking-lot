@@ -12,3 +12,4 @@
 /Users/fajarhidayad/Workspace/dotnet/TestApp/TestApp/obj/Debug/net8.0/TestApp.pdb
 /Users/fajarhidayad/Workspace/dotnet/TestApp/TestApp/obj/Debug/net8.0/TestApp.genruntimeconfig.cache
 /Users/fajarhidayad/Workspace/dotnet/TestApp/TestApp/obj/Debug/net8.0/ref/TestApp.dll
+/Users/fajarhidayad/Workspace/dotnet/TestApp/TestApp/obj/Debug/net8.0/TestApp.sourcelink.json
